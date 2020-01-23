@@ -1,7 +1,7 @@
 ember-splitjs-modifier
 ==============================================================================
 
-Easily use split.js in Ember projects by using a modifier.
+Easily use split.js in Ember projects by using a modifier. ```{{splitjs}}```
 
 
 Compatibility
@@ -87,7 +87,7 @@ Use ember conditionals to hide/show panels
     <!-- Right panel content -->
   </div>
 </div>
-
+```
 
 Contributing
 ------------------------------------------------------------------------------
