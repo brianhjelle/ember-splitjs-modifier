@@ -1,0 +1,10 @@
+.ember-splitjs-modifier-container {
+  display: flex;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.ember-splitjs-modifier-container-vertical {
+  flex-direction: column;
+  width: 100%;
+}
