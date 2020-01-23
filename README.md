@@ -71,6 +71,7 @@ Defining an initial percent of available space
     <!-- Right panel content -->
   </div>
 </div>
+```
 
 Use ember conditionals to hide/show panels
 ```
